@@ -40,4 +40,4 @@ The zoo has:
 - one school of gold fish,
 - one palm tree in a pot.
 
-A Omnivore is a Carnivore and a Herbivore. The system is designed so such the zoo director can do what they director wants.
+A Omnivore is a Carnivore and a Herbivore. The system is designed so such the zoo director can do what he wants.
